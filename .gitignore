@@ -3,5 +3,5 @@
 # ignoring venv
 venv/* 
 # ignoring .ipynb_checkpoints
-.ipynb_checkpoints/*
+*.ipynb_checkpoints/*
 
