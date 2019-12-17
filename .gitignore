@@ -4,4 +4,4 @@
 venv/* 
 # ignoring .ipynb_checkpoints
 .ipynb_checkpoints/*
-NumPy/.ipynb_checkpoints/*
+
